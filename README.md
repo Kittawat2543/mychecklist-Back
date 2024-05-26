@@ -5,50 +5,50 @@
 ## ความรู้พื้นฐานของ Computer Science
 
 - [/] JavaScript
-- [x] Python
-- [x] Java
+- [/] Python
+- [/] Java
 - [ ] C#
-- [x] PHP
+- [/] PHP
 - [ ] Ruby
-- [x] Go
+- [/] Go
 
 ## พื้นฐานเทคโนโลยีเว็บ และ Computer Network
 
-- [x] Data Structures
-- [x] Algorithms
-- [x] การออกแบบและการวิเคราะห์ระบบ
-- [x] Design Patterns
-- [x] OOP
-- [x] Problem Solving และ คณิตศาสตร์สําหรับคอมพิวเตอร์
+- [/] Data Structures
+- [/] Algorithms
+- [/] การออกแบบและการวิเคราะห์ระบบ
+- [/] Design Patterns
+- [/] OOP
+- [/] Problem Solving และ คณิตศาสตร์สําหรับคอมพิวเตอร์
 
 ## ระบบการจัดการฐานข้อมูล
 
-- [x] ฐานข้อมูล SQL
-- [x] ใช้งาน MySQL
-- [x] ใช้งาน PostgreSQL
-- [x] ฐานข้อมูล NoSQL
-- [x] ใช้งาน MongoDB
+- [/] ฐานข้อมูล SQL
+- [/] ใช้งาน MySQL
+- [/] ใช้งาน PostgreSQL
+- [/] ฐานข้อมูล NoSQL
+- [/] ใช้งาน MongoDB
 
 ## การทํางานร่วมกับฝั่ง FRONT-END
 
 - [ ] การรองรับ AJAX หรือ Library Front-end
-- [x] Web Services
-- [x] การรับ ส่งข้อมูลจากฝั่ง Client
+- [/] Web Services
+- [/] การรับ ส่งข้อมูลจากฝั่ง Client
 - [ ] การทํางานร่วมกับ JavaScript Frameworks
-- [x] พื้นฐาน HTML CSS และ JavaScript
+- [/] พื้นฐาน HTML CSS และ JavaScript
 
 ## การพัฒนา RESTFUL API
 
-- [x] ความเข้าใจใน RESTful API
-- [x] การออกแบบ RESTful API
-- [x] การพัฒนา RESTful API
-- [x] Authentication และ Authorization
-- [x] การทํา API Documentation
-- [x] Caching
+- [/] ความเข้าใจใน RESTful API
+- [/] การออกแบบ RESTful API
+- [/] การพัฒนา RESTful API
+- [/] Authentication และ Authorization
+- [/] การทํา API Documentation
+- [/] Caching
 
 ## เครื่องมือสําหรับทดสอบ API (เลือก 1 เครื่องมือ)
 
-- [x] Postman (แนะนําตัวนี้)
+- [/] Postman (แนะนําตัวนี้)
 - [ ] Bruno
 - [ ] Testfully
 - [ ] ทดสอบ RESTful API
@@ -62,15 +62,15 @@
 
 ## การจัดการโปรเจกต์ด้วย GIT
 
-- [x] ความรู้เบื้องต้นเกี่ยวกับ Git
-- [x] การทํางานร่วมกับ Command-line
-- [x] การใช้งาน Branch และ Merge
+- [/] ความรู้เบื้องต้นเกี่ยวกับ Git
+- [/] การทํางานร่วมกับ Command-line
+- [/] การใช้งาน Branch และ Merge
 - [ ] การใช้งาน Git Remote
 
 ## การใช้งาน DOCKER
 
 - [ ] การสร้าง Docker Image
-- [x] ความรู้เบื้องต้นเกี่ยวกับ Docker
+- [/] ความรู้เบื้องต้นเกี่ยวกับ Docker
 - [ ] การทํางานร่วมกับ Docker Compose
 - [ ] การจัดการ Container
 
